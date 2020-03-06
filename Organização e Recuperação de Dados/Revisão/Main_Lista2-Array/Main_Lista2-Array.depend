@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582158168 source:c:\users\felipe-sousa\documents\sis\organização e recuperação de dados\main_lista2-array\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+

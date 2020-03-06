@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581556128 source:c:\users\felipe-sousa\documents\sis\organização e recuperação de dados\main_revisão 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+

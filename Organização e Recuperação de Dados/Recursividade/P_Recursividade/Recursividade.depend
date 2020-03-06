@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583453323 source:c:\users\felipe-sousa\documents\sis\organização e recuperação de dados\recursividade\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+

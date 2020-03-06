@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1583457243 source:c:\users\felipe-sousa\documents\sis\organização e recuperação de dados\ordenação\p_ordenação\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"MetodosDeOrdenacao.h"
+
+1583457368 c:\users\felipe-sousa\documents\sis\organização e recuperação de dados\ordenação\p_ordenação\metodosdeordenacao.h
+
